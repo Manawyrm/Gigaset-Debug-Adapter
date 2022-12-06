@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Keystone5230")(type "KiCad")(uri "${KIPRJMOD}/Keystone5230.pretty")(options "")(descr ""))
+  (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/ToolingHole.pretty")(options "")(descr ""))
+  (lib (name "PogoPins")(type "KiCad")(uri "${KIPRJMOD}/PogoPins.pretty")(options "")(descr ""))
+)
