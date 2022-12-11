@@ -15,8 +15,8 @@
     (tstamp fa84e71d-0a0b-4fe4-a183-0ed78aa94fa3)
   )
   (pad "1" thru_hole circle (at 0 0) (size 1.9 1.9) (drill 1.1) (layers *.Cu *.Mask) (tstamp 44e16a6d-5845-4e35-ba66-9fa21d3bcf31))
-  (model "${KIPRJMOD}/PogoPins.pretty/Pogo-Pin P160-T2.step"
-    (offset (xyz 0 0 -6.5))
+  (model "${KIPRJMOD}/lib/PogoPins.pretty/Pogo-Pin P160-T2.step"
+    (offset (xyz 0 0 -4.5))
     (scale (xyz 0.7 0.7 0.7))
     (rotate (xyz 90 0 0))
   )

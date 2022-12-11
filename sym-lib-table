@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Regulator_Switching_Silergy")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulator_Switching_Silergy.kicad_sym")(options "")(descr ""))
+)
