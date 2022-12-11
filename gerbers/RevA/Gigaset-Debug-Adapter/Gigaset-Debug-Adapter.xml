@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/tobias/Entwicklung/Gigaset-Debug-Adapter/Gigaset-Debug-Adapter.kicad_sch</source>
+    <date>2022 December 11, Sunday 03:27:30</date>
+    <tool>Eeschema (6.0.4-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Gigaset-Debug-Adapter</title>
+        <company>tbspace.de</company>
+        <rev>A</rev>
+        <date>2022-12-06</date>
+        <source>Gigaset-Debug-Adapter.kicad_sch</source>
+        <comment number="1" value="Tobias Mädel"/>
+        <comment number="2" value="@manawyrm"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C35216</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C35216"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dde64140-ce34-40bf-98da-366b3eabd999</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C23733</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C23733"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>932cc92a-ecbf-4412-b7d0-a61fdb1ffa20</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9b6eebe-2b51-438f-909b-c78745b7cd6a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc6b88a2-0024-42f8-8b1c-b8f4c3a7c876</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C23733</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C23733"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>441f1051-918b-45b5-9a55-66a4f095f2b8</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f10f0de-a153-4540-ad34-e5c0a815c512</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c6e1fe3-92c6-4eb7-a16c-f24c6d595a67</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca63c9b9-663b-4847-a72d-9350bee7bbe5</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>382cd98c-ecd3-4cf5-a33c-bcaa5c1d575f</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C59461</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C59461"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21b2d12f-421e-4447-8b8c-aa78391709d5</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C23733</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C23733"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f5d4548-cdc1-43fc-a3fb-3cbef685c48a</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C59461</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C59461"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6eeaf3c-43fd-47b5-8004-c34d1a04e3f8</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C23733</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C23733"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>277400ca-320c-46d8-8a28-9d5fb920847d</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>RED (VBUS)</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C2286"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbabcaa3-f119-4e6e-a132-b2ba4104614e</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>YLW (TX)</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C72038</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C72038"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6f36a29-b350-4abb-962c-38fca7aa5797</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>GRN (RX)</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C72043"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9240ba83-bd09-49d6-a4e8-f483d519368a</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>WHT (VCC)</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C2290</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC" value="C2290"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>725291c4-eb63-4c64-85ba-66eff8c03071</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>600R@100MHz</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C1017</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="LCSC" value="C1017"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>435ba6e9-ecd3-4c4f-b9ca-8c2a07665b64</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M3 Hole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf594228-132a-41df-a88b-f41061eeae43</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>ToolingHole</value>
+      <footprint>ToolingHole:ToolingHole_JLCSMT</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1342ca5-b562-48cf-b6e2-aecdf26865b1</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>ToolingHole</value>
+      <footprint>ToolingHole:ToolingHole_JLCSMT</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8c87660-1758-444a-9322-0669cfa60a4e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle</value>
+      <footprint>Connector_Jing:USB_Type_C_Straight_C168703</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C168703</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle" description="USB Full-Featured Type-C Receptacle connector"/>
+      <property name="LCSC" value="C168703"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e211a04-8b8a-4f32-8e63-cc1035ea40e2</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C412023</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="LCSC" value="C412023"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2423105e-bcb4-4019-a8bb-8fddae468ecd</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MMBT3904</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C20526</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="LCSC" value="C20526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64a0b168-237e-410d-82d4-6208c8903e31</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>MMBT3904</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C20526</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="LCSC" value="C20526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2682c21c-0a11-4afa-b317-ea78e8fd2cd2</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>AO3401A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C15127</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="AO3401A" description="-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C15127"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>213ce4ad-1923-4699-a068-7e8398fcf848</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k HV</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C17900</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8f128f4-7795-4acf-8a94-180ca7a12ad3</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25768</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25768"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c094790-5631-4029-aa76-08768a11aa58</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25792"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62fd21fe-56c6-40ce-8426-ed009399ce3b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.1 kR</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC"> C25905</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value=" C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cba711d-d141-496a-bdec-b5ea889e481d</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5.1 kR</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC"> C25905</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value=" C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfee5c07-f756-451b-a0d5-0614a072c7ce</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25900</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ab1f4f5-3373-4351-ac38-b462dfbceaff</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05f1122c-0fe3-4a7b-8da2-ccf02befcb48</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>076b2a33-11dd-4cc5-b71a-95d7a04bbc50</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25741</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25741"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73d73be9-f602-4212-90b2-5e7d874aca07</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25741</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25741"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cea9572-5db6-4601-af87-e55f67ec5064</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e919be2b-85ca-46d5-808d-ac9a37069cc6</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>126ffc6c-7bdb-4f50-9a8c-08c356145826</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25741</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25741"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cd0a809-1aae-4676-842d-c3bd84c1267e</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bd61578-6833-4077-8d4b-d5835681f626</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc6c4948-d5d7-47a0-8cda-9baa64c36f50</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>120k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25750</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25750"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9a595c1-acd5-4ff6-9798-c88d88ad7e41</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>470k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25790</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25790"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43417de9-fe29-4939-8ddd-db60b681e7bc</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>120k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25750</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25750"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87f01cbd-f49f-41f6-b420-875a87989811</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>RX</value>
+      <footprint>PogoPins:PogoPin_0.96mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a558c68-92fb-4b61-98d2-0361cf4e2266</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TX</value>
+      <footprint>PogoPins:PogoPin_0.96mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39611830-3b2d-4035-87a5-93809df0b74d</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>BAT+</value>
+      <footprint>Keystone5230:Keystone_5230</footprint>
+      <datasheet>https://asset.conrad.com/media10/add/160267/c1/-/en/000651311DS01/datenblatt-651311-keystone-5230-einzelkontakt-1x-micro-aaa-mini-aaaa-lady-n-23-a-27-a-oberflaechenmontage-smd-l-x-b-x-h-127-x.pdf</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd3641d1-3700-43ab-ab45-c93abda39634</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>BAT-</value>
+      <footprint>Keystone5230:Keystone_5230</footprint>
+      <datasheet>https://asset.conrad.com/media10/add/160267/c1/-/en/000651311DS01/datenblatt-651311-keystone-5230-einzelkontakt-1x-micro-aaa-mini-aaaa-lady-n-23-a-27-a-oberflaechenmontage-smd-l-x-b-x-h-127-x.pdf</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80a767d3-ad64-4104-afde-f4cafc0359fa</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>CP2102N-Axx-xQFN24</value>
+      <footprint>Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm</footprint>
+      <datasheet>https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C969151</field>
+      </fields>
+      <libsource lib="Interface_USB" part="CP2102N-Axx-xQFN24" description="USB to UART master bridge, QFN-24"/>
+      <property name="LCSC" value="C969151"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f825fb7a-f85d-4fd7-a5ac-eebfb8bbe67a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C85364</field>
+      </fields>
+      <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <property name="LCSC" value="C85364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae12abe4-f2d9-48d5-aecd-9fb2408c4cd7</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SY8088</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8077AAC_C133749.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C479072</field>
+      </fields>
+      <libsource lib="Regulator_Switching_Silergy" part="SY8077" description="High Efficiency 1.5MHz, 1A Synchronous Step Down Regulator"/>
+      <property name="LCSC" value="C479072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bdbf4c6-c5ef-47a4-870e-5b4a81b99816</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>XC6206P18xMR</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.torexsemi.com/file/xc6206/XC6206.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2827651</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="XC6206PxxxMR" description="Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"/>
+      <property name="LCSC" value="C2827651"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9641a39-e84b-45cd-a6e6-f261961b80a0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle">
+      <description>USB Full-Featured Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A2" name="TX1+" type="bidirectional"/>
+        <pin num="A3" name="TX1-" type="bidirectional"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A10" name="RX2-" type="bidirectional"/>
+        <pin num="A11" name="RX2+" type="bidirectional"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B2" name="TX2+" type="bidirectional"/>
+        <pin num="B3" name="TX2-" type="bidirectional"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B10" name="RX1-" type="bidirectional"/>
+        <pin num="B11" name="RX1+" type="bidirectional"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead_Small">
+      <description>Ferrite bead, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_USB" part="CP2102N-Axx-xQFN24">
+      <description>USB to UART master bridge, QFN-24</description>
+      <docs>https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CP2102N-Axx-xQFN24</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm</field>
+        <field name="Datasheet">https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RI}/CLK" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="D-" type="bidirectional"/>
+        <pin num="5" name="VIO" type="power_in"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="VREGIN" type="power_in"/>
+        <pin num="8" name="VBUS" type="input"/>
+        <pin num="9" name="~{RST}" type="input"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="~{WAKEUP}/GPIO.3" type="bidirectional"/>
+        <pin num="12" name="RS485/GPIO.2" type="bidirectional"/>
+        <pin num="13" name="~{RXT}/GPIO.1" type="bidirectional"/>
+        <pin num="14" name="~{TXT}/GPIO.0" type="bidirectional"/>
+        <pin num="15" name="~{SUSPEND}" type="output"/>
+        <pin num="16" name="NC" type="no_connect"/>
+        <pin num="17" name="SUSPEND" type="output"/>
+        <pin num="18" name="~{CTS}" type="input"/>
+        <pin num="19" name="~{RTS}" type="output"/>
+        <pin num="20" name="RXD" type="input"/>
+        <pin num="21" name="TXD" type="output"/>
+        <pin num="22" name="~{DSR}" type="input"/>
+        <pin num="23" name="~{DTR}" type="output"/>
+        <pin num="24" name="~{DCD}" type="input"/>
+        <pin num="25" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Power_Protection" part="SRV05-4">
+      <description>ESD Protection Diodes with Low Clamping Voltage, SOT-23-6</description>
+      <docs>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SRV05-4</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO3" type="passive"/>
+        <pin num="5" name="VP" type="passive"/>
+        <pin num="6" name="IO4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="XC6206PxxxMR">
+      <description>Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23</description>
+      <docs>https://www.torexsemi.com/file/xc6206/XC6206.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XC6206PxxxMR</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.torexsemi.com/file/xc6206/XC6206.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching_Silergy" part="SY8077">
+      <description>High Efficiency 1.5MHz, 1A Synchronous Step Down Regulator</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8077AAC_C133749.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SY8077</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8077AAC_C133749.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="LX" type="output"/>
+        <pin num="4" name="IN" type="power_in"/>
+        <pin num="5" name="FB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="MMBT3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MMBT3904</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="AO3401A">
+      <description>-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23</description>
+      <docs>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3401A</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Interface_USB.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching_Silergy">
+      <uri>/Users/tobias/Entwicklung/Gigaset-Debug-Adapter/lib/Regulator_Switching_Silergy.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+1V8">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VIO" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="2" name="+3V0">
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="+3V3">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="4" name="/3V_EN">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="5" name="/D+">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="IO3" pintype="passive"/>
+    </net>
+    <net code="6" name="/D-">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="IO4" pintype="passive"/>
+    </net>
+    <net code="7" name="/DECT_RX">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="TXD" pintype="output"/>
+      <node ref="U2" pin="3" pinfunction="IO2" pintype="passive"/>
+    </net>
+    <net code="8" name="/DECT_TX">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="RXD" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="IO1" pintype="passive"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="25" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="10" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="~{TXT}/GPIO.0" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="~{RXT}/GPIO.1" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(L1-Pad1)">
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="LX" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="~{RTS}" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="~{DTR}" pintype="output"/>
+    </net>
+    <net code="25" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(Q3-Pad3)">
+      <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="30" name="VBUS">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VREGIN" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="VP" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="IN" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="31" name="unconnected-(J1-PadA2)">
+      <node ref="J1" pin="A2" pinfunction="TX1+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(J1-PadA3)">
+      <node ref="J1" pin="A3" pinfunction="TX1-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(J1-PadA10)">
+      <node ref="J1" pin="A10" pinfunction="RX2-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(J1-PadA11)">
+      <node ref="J1" pin="A11" pinfunction="RX2+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(J1-PadB2)">
+      <node ref="J1" pin="B2" pinfunction="TX2+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(J1-PadB3)">
+      <node ref="J1" pin="B3" pinfunction="TX2-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(J1-PadB10)">
+      <node ref="J1" pin="B10" pinfunction="RX1-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(J1-PadB11)">
+      <node ref="J1" pin="B11" pinfunction="RX1+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="~{RI}/CLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U1-Pad11)">
+      <node ref="U1" pin="11" pinfunction="~{WAKEUP}/GPIO.3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="RS485/GPIO.2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U1-Pad15)">
+      <node ref="U1" pin="15" pinfunction="~{SUSPEND}" pintype="output+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="SUSPEND" pintype="output+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="~{CTS}" pintype="input+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="~{DSR}" pintype="input+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U1-Pad24)">
+      <node ref="U1" pin="24" pinfunction="~{DCD}" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

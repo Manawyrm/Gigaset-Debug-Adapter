@@ -3,4 +3,5 @@
   (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/lib/ToolingHole.pretty")(options "")(descr ""))
   (lib (name "PogoPins")(type "KiCad")(uri "${KIPRJMOD}/lib/PogoPins.pretty")(options "")(descr ""))
   (lib (name "Connector_Jing")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_Jing.pretty")(options "")(descr ""))
+  (lib (name "DECTPentagram")(type "KiCad")(uri "${KIPRJMOD}/lib/DECTPentagram.pretty")(options "")(descr ""))
 )
