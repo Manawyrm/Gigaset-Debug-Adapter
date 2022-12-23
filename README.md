@@ -1,6 +1,6 @@
 Gigaset-Debug-Adapter
 =============================
-![PCB render](https://screenshot.tbspace.de/jxfwnarudym.png)
+<img src="Gigaset-Debug-Adapter.webp" width="300">
 
 ### Overview
 
