@@ -19,6 +19,8 @@ JLC can probably also manufacture the 3D printed adapter for you, altough this w
 Additionally, you will need:
 - 2 Pogo pins. Tested with: 16,7 mm full length, 2,3 mm travel, 0.96 mm diameter
 - 2 Keystone 5230 AAA battery contacts (2 slim pieces of tin sheet would probably work as well)
+- 2 M3 threaded inserts (designed for CNCKitchen M3 x 5.7)
+- 2 M3 machine screws
 - 1 3D printable battery adapter (FDM with 0.3mm layer height, 35% infill worked well. Print upside down!)
 
 Note: We've had trouble soldering to the Keystone 5230 using lead-free solder! Use leaded solder instead.
