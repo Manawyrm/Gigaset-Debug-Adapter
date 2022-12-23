@@ -9,6 +9,8 @@ It's basically a 1.8V USB->UART converter, with switchable strapping logic and 3
 
 [dialog-cr16c-uart-boot](https://github.com/TobleMiner/dialog-cr16c-uart-boot) can be used to upload a stub to the phone through the boot ROM and access the SPI NOR flash chip.
 
+https://user-images.githubusercontent.com/748791/209271987-683d4506-6c61-477d-b1db-ebee4b655a7c.mp4
+
 ### Manufacturing
 The PCB can (and should) be assembled at [JLCPCBs](https://jlcpcb.com/) assembly service.  
 Manufacturing files for the automatic assembly service can be found at `gerbers/RevA/Gigaset-Debug-Adapter/`.  
