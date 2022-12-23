@@ -32,7 +32,7 @@ This can be done using SiLabs propritary Simplicity Studio.
 ![Screenshot of Simplicity Studio, showing the GPIO configs, with Alternate Functions being TX/RX Toggle](https://screenshot.tbspace.de/cbzwjimhxae.png)
 
 Simplicity Studio (and the experience of downloading it) is awful, be prepared and use a VM.   
-This step is fully optional, you just loose the LEDs. Those are pretty and useful, but not required.
+This step is fully optional, you just lose the LEDs. Those are pretty and useful, but not required.
 
 ### Additional resources 
 
