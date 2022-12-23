@@ -4370,6 +4370,15 @@
   (gr_text "Total length to include battery contacts\nBattery contact placement\nPogo pin placement\nM3 hole placement" (at 115.062 57.15) (layer "Edge.Cuts") (tstamp 01cc05be-8bd2-4e22-99d5-4e2175277afe)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (dimension (type aligned) (layer "B.SilkS") (tstamp d10950dc-881e-4294-ab7d-ca9047164a10)
+    (pts (xy 90.6 45.1) (xy 72.6 45.1))
+    (height 5.099999)
+    (gr_text "18,0000 mm" (at 81.6 38.850001) (layer "B.SilkS") (tstamp 0c2f7b4a-f541-492b-91c8-0cb2f2363644)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
 
   (segment (start 77.08 66.68) (end 77.1 66.7) (width 0.127) (layer "F.Cu") (net 1) (tstamp 023fb1a8-1759-4e36-ba04-beaaf96ead81))
   (segment (start 74.55 69.95) (end 74.5 69.9) (width 0.127) (layer "F.Cu") (net 1) (tstamp 04de43ff-b52d-43cf-a12b-f5cac8db91cd))
@@ -5090,7 +5099,7 @@
   (zone (net 0) (net_name "") (layers "F.Cu" "In1.Cu" "In2.Cu" "B.Cu") (tstamp 22ea0e26-2f01-4451-8a02-2865439d8d54) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts

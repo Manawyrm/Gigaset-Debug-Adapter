@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "Regulator_Switching_Silergy")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulator_Switching_Silergy.kicad_sym")(options "")(descr ""))
+  (lib (name "ir4301")(type "KiCad")(uri "/home/tobias/Schreibtisch/ir4301.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "/home/tobias/Entwicklung/Platinen/New_Library.kicad_sym")(options "")(descr ""))
 )
