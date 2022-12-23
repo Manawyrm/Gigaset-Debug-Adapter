@@ -1,8 +1,8 @@
 "Source:","/home/tobias/Entwicklung/Platinen/Gigaset-Debug-Adapter-PCB/Gigaset-Debug-Adapter/Gigaset-Debug-Adapter.kicad_sch"
-"Date:","Fr 23 Dez 2022 14:20:08 CET"
+"Date:","Fr 23 Dez 2022 14:34:27 CET"
 "Tool:","Eeschema (6.0.9)"
 "Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
-"Component Count:","51"
+"Component Count:","52"
 
 "Individual Components:"
 
@@ -25,6 +25,7 @@
 "","","D3","GRN (RX)","Device:LED_Small","LED_SMD:LED_0603_1608Metric","~","C72043"
 "","","D4","WHT (VCC)","Device:LED_Small","LED_SMD:LED_0603_1608Metric","~","C2290"
 "","","FB1","600R@100MHz","Device:FerriteBead_Small","Inductor_SMD:L_0805_2012Metric","~","C1017"
+"","","H1","M3 Hole","Mechanical:MountingHole","MountingHole:MountingHole_3.2mm_M3","~",""
 "","","H2","M3 Hole","Mechanical:MountingHole","MountingHole:MountingHole_3.2mm_M3","~",""
 "","","H3","ToolingHole","Mechanical:MountingHole","ToolingHole:ToolingHole_JLCSMT","~",""
 "","","H4","ToolingHole","Mechanical:MountingHole","ToolingHole:ToolingHole_JLCSMT","~",""
@@ -75,7 +76,7 @@
 "9","1","D3","GRN (RX)","Device:LED_Small","LED_SMD:LED_0603_1608Metric","~","C72043"
 "10","1","D4","WHT (VCC)","Device:LED_Small","LED_SMD:LED_0603_1608Metric","~","C2290"
 "11","1","FB1","600R@100MHz","Device:FerriteBead_Small","Inductor_SMD:L_0805_2012Metric","~","C1017"
-"12","1","H2","M3 Hole","Mechanical:MountingHole","MountingHole:MountingHole_3.2mm_M3","~",""
+"12","2","H1, H2","M3 Hole","Mechanical:MountingHole","MountingHole:MountingHole_3.2mm_M3","~",""
 "13","2","H3, H4","ToolingHole","Mechanical:MountingHole","ToolingHole:ToolingHole_JLCSMT","~",""
 "14","1","J1","USB_C_Receptacle","Connector:USB_C_Receptacle","Connector_Jing:USB_Type_C_Straight_C168703","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","C168703"
 "15","1","L1","2.2uH","Device:L_Small","Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C412023"

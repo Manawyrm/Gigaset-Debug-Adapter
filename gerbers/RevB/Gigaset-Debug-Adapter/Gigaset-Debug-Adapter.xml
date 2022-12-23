@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/tobias/Entwicklung/Platinen/Gigaset-Debug-Adapter-PCB/Gigaset-Debug-Adapter/Gigaset-Debug-Adapter.kicad_sch</source>
-    <date>Fr 23 Dez 2022 14:20:08 CET</date>
+    <date>Fr 23 Dez 2022 14:34:27 CET</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -257,6 +257,15 @@
       <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>435ba6e9-ecd3-4c4f-b9ca-8c2a07665b64</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>M3 Hole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Gigaset-Debug-Adapter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>982241a4-3344-4608-904c-dc461325cd10</tstamps>
     </comp>
     <comp ref="H2">
       <value>M3 Hole</value>

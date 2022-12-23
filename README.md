@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/748791/209271987-683d4506-6c61-477d-b1
 
 ### Manufacturing
 The PCB can (and should) be assembled at [JLCPCBs](https://jlcpcb.com/) assembly service.  
-Manufacturing files for the automatic assembly service can be found at `gerbers/RevA/Gigaset-Debug-Adapter/`.  
+Manufacturing files for the automatic assembly service can be found at `gerbers/RevB/Gigaset-Debug-Adapter/`.  
 JLC can probably also manufacture the 3D printed adapter for you, altough this was never tested. Please report if you do.
 
 Additionally, you will need:
@@ -34,7 +34,7 @@ This step is fully optional, you just loose the LEDs. Those are pretty and usefu
 
 ### Additional resources 
 
-[Schematic - Rev. A](gerbers/RevA/Gigaset-Debug-Adapter/Gigaset-Debug-Adapter.pdf)  
+[Schematic - Rev. B](gerbers/RevB/Gigaset-Debug-Adapter/Gigaset-Debug-Adapter.pdf)  
 [Bootloader utility - dialog-cr16c-uart-boot](https://github.com/TobleMiner/dialog-cr16c-uart-boot)  
 
 ### Errata
