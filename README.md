@@ -23,6 +23,10 @@ Additionally, you will need:
 
 Note: We've had trouble soldering to the Keystone 5230 using lead-free solder! Use leaded solder instead.
 
+### Purchasing a DIY parts kit
+
+sysmocom is making available a complete kit consisting of all the parts listed above which can be purchased via the [sysmocom webshop](https://shop.sysmocom.de/Gigaset-Debug-Adapter-DIY-kit/gset-dbg-ad-kit)
+
 ### CP2102N EEPROM
 
 In order to enable the RX/TX LEDs, the internal EEPROM of the CP2102N USB->UART converter IC must be programmed to use the GPIO0 and GPIO1 pins as LED outputs.
