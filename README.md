@@ -28,11 +28,31 @@ Note: We've had trouble soldering to the Keystone 5230 using lead-free solder! U
 ### CP2102N EEPROM
 
 In order to enable the RX/TX LEDs, the internal EEPROM of the CP2102N USB->UART converter IC must be programmed to use the GPIO0 and GPIO1 pins as LED outputs.
-This can be done using SiLabs propritary Simplicity Studio.
+This can be done eiher
+
+* using SiLabs propritary Simplicity Studio,
+* using the FOSS tool [ext/badge/cp2102 of cp210x-program](https://github.com/VCTLabs/cp210x-program)
+
+
+#### EEPROM programming using Silabs Simplicity Studio
+
 ![Screenshot of Simplicity Studio, showing the GPIO configs, with Alternate Functions being TX/RX Toggle](https://screenshot.tbspace.de/cbzwjimhxae.png)
 
 Simplicity Studio (and the experience of downloading it) is awful, be prepared and use a VM.   
 This step is fully optional, you just lose the LEDs. Those are pretty and useful, but not required.
+
+#### EEPROM programming using cp210x-program
+
+The FOSS tool [cp210x-program](https://github.com/VCTLabs/cp210x-program) contains two separate programmers:
+One python tool for CP2102, and the `ext/badge/cp2102` C program which we need here.
+
+Do something like
+
+```
+./bin/cp2102 -p "Gigaset Debug Adapter" -g on
+```
+
+And then power-cycle the board to apply the new settings.
 
 ### Additional resources 
 
